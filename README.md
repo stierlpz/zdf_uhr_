@@ -1,7 +1,7 @@
-# zdf_uhr_90er-Anleitung
-https://github.com/stierlpz/zdf_uhr_90er
+# zdf_uhr-Anleitung
+https://github.com/stierlpz/zdf_uhr_
 - downloade die datei unter:
-https://github.com/stierlpz/zdf_uhr_90er/archive/refs/heads/main.zip
-oder https://github.com/stierlpz/zdf_uhr_90er
+https://github.com/stierlpz/zdf_uhr_/archive/refs/heads/main.zip
+oder https://github.com/stierlpz/zdf_uhr_
 - entpacke "ZDF-UHR.rar"
 - öffne "Uhr"
